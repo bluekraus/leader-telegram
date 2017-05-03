@@ -1,0 +1,399 @@
+
+
+.container {
+    height:1000px;
+    width:100%;
+    top:100px;
+    background-color: white;
+    position: relative;
+    z-index: 0;
+    
+}
+
+/* HEADER */
+
+.header {
+    height:100px;
+    width:100%;
+    background-color: white;
+    position:relative;
+    margin-bottom: -100px;
+    z-index: 2;
+}
+
+.headline1 {
+    position: relative;
+    top: 10px;
+    left: 45%;
+    width: 270px;
+    font-family: "Raleway", sans-serif;
+    font-kerning:none;
+    
+}
+/* Row One */
+
+.row1 {
+    height: 400px;
+    width: 100%;
+    padding-left: 20px;
+}
+
+/* Article One */
+
+
+.category1 {
+    font-size: .89em;
+    position: absolute;
+    left: 286px;
+    top: 240px;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    color: darkgreen;
+}
+
+
+.text1 {
+    position: absolute;
+    left: 285px;
+    top: 30px;
+    width: 215px;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.img1 {
+    position: absolute;
+    left: 20px;
+    top: 0px;
+}
+
+.subtext1 {
+    font-size: .85em;
+    margin-top: 10px;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    width: 215px;
+    position: absolute;
+    left: 285px;
+    top: 300px;
+}
+
+/* Article Two */
+
+.subtext2 {
+    font-size: .85em;
+    margin-top: 10px;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    width: 215px;
+    position: absolute;
+    left: 785px;
+    top: 300px;
+}
+
+.text2 {
+    position: absolute;
+    left: 785px;
+    top: 30px;
+    width: 215px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.category2 {
+    font-size: .89em;
+    position: absolute;
+    left: 786px;
+    top: 240px;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    color: orangered;
+}
+
+.img2 {
+    position: absolute;
+    left: 520px;
+    top: 0px;
+}
+
+/* Article Three */
+
+.subtext3 {
+    font-size: .85em;
+    margin-top: 10px;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    width: 215px;
+    position: absolute;
+    left: 1285px;
+    top: 300px;
+}
+
+.text3 {
+    position: absolute;
+    left: 1285px;
+    top: 30px;
+    width: 215px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.category3 {
+    font-size: .89em;
+    position: absolute;
+    left: 1286px;
+    top: 240px;
+    text-align: left;
+    font-family: 'Oswald', sans-serif;
+    color: orangered;
+}
+
+.img3 {
+    position: absolute;
+    left: 1020px;
+    top: 0px;
+}
+
+/* Article Four */
+
+.category4 {
+    font-size: .89em;
+    position: absolute;
+    left: 200px;
+    top: 635px;
+    text-align: right;
+    font-family: 'Oswald', sans-serif;
+    color: darkgreen;
+}
+
+
+.text4 {
+    position: absolute;
+    left: 40px;
+    top: 430px;
+    width: 215px;
+    font-family: 'Raleway', sans-serif;
+    text-align: right;
+}
+
+
+.img4 {
+    position: absolute;
+    left: 270px;
+    top: 398px;
+}
+
+.subtext4 {
+    font-size: .85em;
+    margin-top: 10px;
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+    width: 215px;
+    position: absolute;
+    left: 40px;
+    top: 700px;
+}
+
+/* Article Four */
+
+.category5 {
+    font-size: .89em;
+    position: absolute;
+    left: 717px;
+    top: 635px;
+    text-align: right;
+    font-family: 'Oswald', sans-serif;
+    color: darkgreen;
+}
+
+
+.text5 {
+    position: absolute;
+    left: 545px;
+    top: 430px;
+    width: 215px;
+    font-family: 'Raleway', sans-serif;
+    text-align: right;
+}
+
+
+.img5 {
+    position: absolute;
+    left: 770px;
+    top: 398px;
+}
+
+.subtext5 {
+    font-size: .85em;
+    margin-top: 10px;
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+    width: 215px;
+    position: absolute;
+    left: 545px;
+    top: 700px;
+}
+
+/* Article Four */
+
+.category6 {
+    font-size: .89em;
+    position: absolute;
+    left: 1217px;
+    top: 635px;
+    text-align: right;
+    font-family: 'Oswald', sans-serif;
+    color: darkgreen;
+}
+
+
+.text6 {
+    position: absolute;
+    left: 1045px;
+    top: 430px;
+    width: 215px;
+    font-family: 'Raleway', sans-serif;
+    text-align: right;
+}
+
+
+.img6 {
+    position: absolute;
+    left: 1270px;
+    top: 398px;
+}
+
+.subtext6 {
+    font-size: .85em;
+    margin-top: 10px;
+    text-align: right;
+    font-family: 'Raleway', sans-serif;
+    width: 215px;
+    position: absolute;
+    left: 1045px;
+    top: 700px;
+}
+
+/* PAGE 1 */
+
+a:link {
+    color: black; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.rectangle {
+    width: 10px;
+    height: 1000px;
+    position: absolute;
+    top: 950px;
+    left: 50px;
+    background-color: cadetblue;
+}
+
+.img21 {
+    position: absolute;
+    left: 50px;
+    top: 275px
+}
+
+.maintitle {
+
+    width: 455px;
+    height: 100px;
+    position: absolute;
+    left: 50px;
+    top: 135px
+   
+}
+
+.articletitle {
+    font-size: 2em;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: -10px;
+    
+}
+
+.subtext {
+    font-size: .85em;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: 90px;
+    left: 3px;
+    color: cadetblue;
+    width: 700px;
+}
+
+.articleuno {
+    font-size: .85em;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: 950px;
+    left: 80px;
+    color: black;
+    width: 600px;
+}
+
+.articledos {
+    font-size: .85em;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: 995px;
+    left: 80px;
+    color: black;
+    width: 600px;
+}
+
+.articletres {
+    font-size: .85em;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: 1020px;
+    left: 80px;
+    color: black;
+    width: 600px;
+}
+
+.articlequatro {
+    font-size: 2.5em;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: 1080px;
+    left: 80px;
+    color: salmon;
+    width: 600px;
+}
+
+.articlecinco {
+    font-size: .85em;
+    text-align: left;
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: 1199px;
+    left: 80px;
+    color: black;
+    width: 600px;
+}
